@@ -1,2 +1,2 @@
-# 30-days-of-c.repo
-This is a 30 days project to learn C language and journal my progress
+# ML_projects
+This is a repo I made to save my Machine Learning Projects
